@@ -39,3 +39,5 @@ function gameLoop(timestamp) {
 }
 
 gameLoop();
+
+//empty
